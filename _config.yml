@@ -22,7 +22,7 @@ repository               : "Bowen-Sun-0728/Bowen-Sun-0728.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Bowen Sun"
   pronouns         : # example: "she/her"
   bio              : "Johns Hopkins University"
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=YsAEFj0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
