@@ -6,7 +6,11 @@
       "Bash(chmod 700 ~/.ssh)",
       "Bash(git config *)",
       "Bash(ruby --version)",
-      "Bash(bundle --version)"
+      "Bash(bundle --version)",
+      "Bash(git push *)",
+      "Bash(git fetch *)",
+      "Bash(git pull *)",
+      "Bash(git stash *)"
     ]
   }
 }
