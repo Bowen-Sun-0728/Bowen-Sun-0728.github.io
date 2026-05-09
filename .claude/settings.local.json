@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ssh *)",
+      "Bash(chmod 600 ~/.ssh/id_rsa)",
+      "Bash(chmod 700 ~/.ssh)",
+      "Bash(git config *)",
+      "Bash(ruby --version)",
+      "Bash(bundle --version)"
+    ]
+  }
+}
